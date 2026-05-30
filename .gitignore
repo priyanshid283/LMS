@@ -1,0 +1,40 @@
+# =========================
+# Python Backend
+# =========================
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+*.db
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# =========================
+# React / Vite Frontend
+# =========================
+node_modules/
+dist/
+build/
+.vite/
+
+# =========================
+# Logs
+# =========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# VS Code & IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Operating System Files
+# =========================
+.DS_Store
+Thumbs.db
